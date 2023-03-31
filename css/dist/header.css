@@ -1,0 +1,7 @@
+#header {
+  padding: 15px 170px 15px 170px;
+  color: white;
+  font-size: 20px;
+  display: flex;
+  justify-content: space-between;
+}
